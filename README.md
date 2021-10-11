@@ -32,8 +32,8 @@
         <td>3</td>
         <td>94</td>
         <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a></td>
-        <td><a href="">javascript</a></td>
-        <td>Medium</td>  
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/94-BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.js">javascript</a></td>
+        <td>Easy</td>  
     </tr>
 </tbody>
 </table>
