@@ -8,7 +8,7 @@ class TreeNode {
 let root;
 
 function inorderTraversal(root) {
-  if (!root) return;
+  if (!root) return [];
 
   const result = [];
   let node = root;
