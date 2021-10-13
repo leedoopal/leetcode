@@ -33,7 +33,14 @@
         <td>94</td>
         <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a></td>
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/94-BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.js">javascript</a></td>
-        <td>Easy</td>  
+        <td>Medium</td>  
+    </tr>
+<tr>
+        <td>4</td>
+        <td>109</td>
+        <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/793/">Letter Combinations Of a Phone Number</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/109-LetterCombinationsOfAPhoneNumber/LetterCombinationsOfAPhoneNumber.js">javascript</a></td>
+        <td>Medium</td>  
     </tr>
 </tbody>
 </table>
