@@ -49,5 +49,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/110-SortColors/SortColors.js">javascript</a></td>
         <td>Medium</td>  
     </tr>
+    <tr>
+        <td>6</td>
+        <td>111</td>
+        <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/807/">Jump Game</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/111-JumpGame/JumpGame.js">javascript</a></td>
+        <td>Medium</td>  
+    </tr>
 </tbody>
 </table>
