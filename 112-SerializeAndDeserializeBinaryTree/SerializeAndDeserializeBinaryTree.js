@@ -16,33 +16,18 @@ let root;
  * @return {string}
  */
 const serialize = function(root) {
-  if (!root) return [];
+  if (!root) return '-';
 
-  const result = [root.val];
-  let queue = root;
-
-  while (queue) {
-    let node = queue.left;
-    console.log('node: ', node);
-
-    if (queue.left == null) {
-      result.push(queue.val);
-      queue = queue.right;
-    } else {
-      // result.push(node.val);
-      // result.push(null);
-      console.log('right: ', queue.right);
-      queue = queue.right;
-    }
-  }
-
-  return result;
+  return `${root.val},${serialize(root.left)},${serialize(root.right)}`
 };
 
 root = new TreeNode(1);
 root.left = new TreeNode(2);
 root.right = new TreeNode(3);
+root.left.right = new TreeNode(6);
+root.left.left = new TreeNode(7);
 root.right.left = new TreeNode(4);
 root.right.right = new TreeNode(5);
 
 console.log(serialize(root));
+// [1,2,3,7,6,4,5]
