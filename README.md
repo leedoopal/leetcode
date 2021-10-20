@@ -56,5 +56,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/111-JumpGame/JumpGame.js">javascript</a></td>
         <td>Medium</td>  
     </tr>
+    <tr>
+        <td>7</td>
+        <td>112</td>
+        <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/112/design/812/">Serialize And Deserialize Binary Tree</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/112-SerializeAndDeserializeBinaryTree/SerializeAndDeserializeBinaryTree.js">javascript</a></td>
+        <td>Medium</td>  
+    </tr>
 </tbody>
 </table>
