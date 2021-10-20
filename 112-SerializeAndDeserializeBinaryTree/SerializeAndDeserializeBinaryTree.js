@@ -21,6 +21,31 @@ const serialize = function(root) {
   return `${root.val},${serialize(root.left)},${serialize(root.right)}`
 };
 
+/**
+ * Decodes your encoded data to tree.
+ *
+ * @param {string} data
+ * @return {TreeNode}
+ */
+const deserialize = function(data) {
+  let queue = data.split(',');
+
+  function createTree(queue) {
+    if (!queue) return null;
+
+    let node = queue.shift();
+    if (node === '-') return null;
+
+    let root = new TreeNode(node);
+    root.left = createTree(queue);
+    root.right = createTree(queue);
+
+    return root;
+  }
+
+  return createTree(queue);
+}
+
 root = new TreeNode(1);
 root.left = new TreeNode(2);
 root.right = new TreeNode(3);
@@ -29,5 +54,9 @@ root.left.left = new TreeNode(7);
 root.right.left = new TreeNode(4);
 root.right.right = new TreeNode(5);
 
-console.log(serialize(root));
+/**
+ * Your functions will be called as such:
+ * deserialize(serialize(root));
+ */
+console.log(deserialize(serialize(root)));
 // [1,2,3,7,6,4,5]
