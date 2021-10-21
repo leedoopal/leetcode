@@ -63,5 +63,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/112-SerializeAndDeserializeBinaryTree/SerializeAndDeserializeBinaryTree.js">javascript</a></td>
         <td>Medium</td>  
     </tr>
+    <tr>
+        <td>8</td>
+        <td>113</td>
+        <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/815/">Happy Number</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/113-HappyNumber/HappyNumber.js">javascript</a></td>
+        <td>Medium</td>  
+    </tr>
 </tbody>
 </table>
