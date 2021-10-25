@@ -70,5 +70,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/113-HappyNumber/HappyNumber.js">javascript</a></td>
         <td>Medium</td>  
     </tr>
+    <tr>
+        <td>9</td>
+        <td>114</td>
+        <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/822/">Sum Of Two Integers</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/114-SumOfTwoIntegers/SumOfTwoIntegers.js">javascript</a></td>
+        <td>Medium</td>  
+    </tr>
 </tbody>
 </table>
