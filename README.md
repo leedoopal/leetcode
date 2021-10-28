@@ -16,9 +16,9 @@
 <tbody>
     <tr>
         <td>1</td>
-        <td>103</td>
+        <td>776</td>
         <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/776/">3Sum</a></td>
-        <td><a href="https://github.com/leedoopal/leetcode/blob/main/103-3Sum/3Sum.js">javascript</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/776-3Sum/3Sum.js">javascript</a></td>
         <td>Medium</td>  
     </tr>
     <tr>
@@ -75,6 +75,13 @@
         <td>114</td>
         <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/822/">Sum Of Two Integers</a></td>
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/114-SumOfTwoIntegers/SumOfTwoIntegers.js">javascript</a></td>
+        <td>Medium</td>  
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>777</td>
+        <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/777/">Set Matrix Zeroes</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/777-SetMatrixZeroes/SetMatrixZeroes.js">javascript</a></td>
         <td>Medium</td>  
     </tr>
 </tbody>
