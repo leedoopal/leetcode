@@ -84,5 +84,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/777-SetMatrixZeroes/SetMatrixZeroes.js">javascript</a></td>
         <td>Medium</td>  
     </tr>
+    <tr>
+        <td>11</td>
+        <td>784</td>
+        <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/784/">Odd Even Linked List</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/784-OddEvenLinkedList/OddEvenLinkedList.js">javascript</a></td>
+        <td>Medium</td>  
+    </tr>
 </tbody>
 </table>
