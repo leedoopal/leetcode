@@ -23,9 +23,9 @@
     </tr>
     <tr>
         <td>2</td>
-        <td>107</td>
+        <td>783</td>
         <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/783/">Add Two Numbers</a></td>
-        <td><a href="https://github.com/leedoopal/leetcode/blob/main/107-AddTwoNumbers/AddTwoNumbers.js">javascript</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/783-AddTwoNumbers/AddTwoNumbers.js">javascript</a></td>
         <td>Medium</td>  
     </tr>
     <tr>
