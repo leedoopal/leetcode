@@ -91,5 +91,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/784-OddEvenLinkedList/OddEvenLinkedList.js">javascript</a></td>
         <td>Medium</td>  
     </tr>
+    <tr>
+        <td>12</td>
+        <td>787</td>
+        <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/787/">Binary Tree Zigzag Level Order Traversal</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/787-BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.js">javascript</a></td>
+        <td>Medium</td>  
+    </tr>
 </tbody>
 </table>
