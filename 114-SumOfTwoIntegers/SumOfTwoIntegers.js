@@ -12,7 +12,6 @@ const getSum = function(a, b) {
   while (b !== 0) {
     start = a ^ b;
     sum = (a & b) << 1;
-    console.log(start, (a & b), sum);
     a = start;
     b = sum;
   }
