@@ -98,5 +98,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/787-BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.js">javascript</a></td>
         <td>Medium</td>  
     </tr>
+    <tr>
+        <td>13</td>
+        <td>794</td>
+        <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/794/">Generate Parentheses</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/794-GenerateParentheses/GenerateParentheses.js">javascript</a></td>
+        <td>Medium</td>  
+    </tr>
 </tbody>
 </table>
