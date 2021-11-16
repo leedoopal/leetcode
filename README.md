@@ -112,5 +112,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/799-TopKFrequentElements/TopKFrequentElements.js">javascript</a></td>
         <td>Medium</td>  
     </tr>
+    <tr>
+        <td>15</td>
+        <td>808</td>
+        <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/808/">Unique Paths</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/808-UniquePaths/UniquePaths.js">javascript</a></td>
+        <td>Medium</td>  
+    </tr>
 </tbody>
 </table>
