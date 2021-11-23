@@ -119,5 +119,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/808-UniquePaths/UniquePaths.js">javascript</a></td>
         <td>Medium</td>  
     </tr>
+    <tr>
+        <td>16</td>
+        <td>813</td>
+        <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/112/design/813/">Insert Delete Get Random O(1)</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/813-InsertDeleteGetRandomO(1)/InsertDeleteGetRandomO(1).js">javascript</a></td>
+        <td>Medium</td>  
+    </tr>
 </tbody>
 </table>
