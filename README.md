@@ -126,5 +126,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/813-InsertDeleteGetRandomO(1)/InsertDeleteGetRandomO(1).js">javascript</a></td>
         <td>Medium</td>  
     </tr>
+    <tr>
+        <td>16</td>
+        <td>816</td>
+        <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/816/">Factorial Trailing Zeroes</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/816-FactorialTrailingZeroes/FactorialTrailingZeroes.js">javascript</a></td>
+        <td>Medium</td>  
+    </tr>
 </tbody>
 </table>
