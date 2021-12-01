@@ -147,5 +147,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/823-EvaluateReversePolishNotation/EvaluateReversePolishNotation.js">javascript</a></td>
         <td>Medium</td>  
     </tr>
+    <tr>
+        <td>20</td>
+        <td>778</td>
+        <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/778/">Group Anagrams</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/778-GroupAnagrams/GroupAnagrams.js">javascript</a></td>
+        <td>Medium</td>  
+    </tr>
 </tbody>
 </table>
