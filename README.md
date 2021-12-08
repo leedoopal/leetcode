@@ -154,5 +154,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/778-GroupAnagrams/GroupAnagrams.js">javascript</a></td>
         <td>Medium</td>  
     </tr>
+    <tr>
+        <td>21</td>
+        <td>785</td>
+        <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/785/">Intersection of Two Linked Lists</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/785-IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.js">javascript</a></td>
+        <td>Medium</td>  
+    </tr>
 </tbody>
 </table>
