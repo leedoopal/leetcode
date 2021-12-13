@@ -161,5 +161,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/785-IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.js">javascript</a></td>
         <td>Medium</td>  
     </tr>
+    <tr>
+        <td>22</td>
+        <td>789</td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/789-PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.js">Populating Next Right Pointers in Each Node</a></td>
+        <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/789/">javascript</a></td>
+        <td>Medium</td>  
+    </tr>
 </tbody>
 </table>
