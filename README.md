@@ -168,5 +168,12 @@
         <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/789/">javascript</a></td>
         <td>Medium</td>  
     </tr>
+    <tr>
+        <td>23</td>
+        <td>795</td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/795-Permutations/Permutations.js">Permutations</a></td>
+        <td><a href="https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/795/">javascript</a></td>
+        <td>Medium</td>  
+    </tr>
 </tbody>
 </table>
