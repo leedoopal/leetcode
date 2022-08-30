@@ -1,5 +1,6 @@
 const calcPow = function (x, n) {
   if (n === 1) return x;
+  // 부동소수점 해결을 위해 floor 추가
   const num = calcPow(x, Math.floor(n / 2));
   if (n % 2 === 0) {
     return num * num;
@@ -20,4 +21,4 @@ const myPow = function (x, n) {
 };
 
 
-console.log(myPow(2.00000, -2))
+console.log(myPow(4.00000, 4))
