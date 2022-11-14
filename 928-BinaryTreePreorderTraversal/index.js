@@ -12,13 +12,13 @@ let root;
  * @param {TreeNode} root
  * @return {number[]}
  */
-const preorderTraversal = function(root) {
+const preorderTraversal = function (root) {
   if (!root) return [];
 
   const arr = [];
   arr.push(root);
 
-  while(arr.length > 0) {
+  while (arr.length > 0) {
     const node = arr.pop();
     result.push(node.val);
 
