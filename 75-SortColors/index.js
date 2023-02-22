@@ -5,7 +5,7 @@
  * @param {number[]} nums
  * @return {void} Do not return anything, modify nums in-place instead.
  */
-const sortColors = function(nums) {
+const index = function(nums) {
   let left = 0;
   let right = nums.length - 1;
 
@@ -23,4 +23,4 @@ const sortColors = function(nums) {
   }
 };
 
-console.log(sortColors([0,1,1,0]));
+console.log(index([0,1,1,0]));
