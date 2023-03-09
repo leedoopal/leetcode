@@ -161,5 +161,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/443-StringCompression/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>  
+    <tr>
+        <td>22</td>
+        <td>142</td>
+        <td><a href="https://leetcode.com/problems/linked-list-cycle-ii/">Linked List Cycle II</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/142-LinkedListCycleII/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>  
 </tbody>
 </table>
