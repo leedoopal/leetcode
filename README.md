@@ -168,5 +168,26 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/142-LinkedListCycleII/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>  
+    <tr>
+        <td>23</td>
+        <td>777</td>
+        <td><a href="https://leetcode.com/problems/set-matrix-zeroes/">Set Matrix Zeroes</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/777-SetMatrixZeroes/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>  
+    <tr>
+        <td>24</td>
+        <td>49</td>
+        <td><a href="https://leetcode.com/problems/group-anagrams/">Group Anagrams</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/49-GroupAnagrams/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>  
+    <tr>
+        <td>24</td>
+        <td>3</td>
+        <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/3-LongestSubstringWithoutRepeatingCharacters/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>  
 </tbody>
 </table>
