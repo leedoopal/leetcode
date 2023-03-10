@@ -189,5 +189,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/3-LongestSubstringWithoutRepeatingCharacters/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>  
+    <tr>
+        <td>25</td>
+        <td>382</td>
+        <td><a href="https://leetcode.com/problems/linked-list-random-node/description/">Linked List Random Node</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/382-LinkedListRandomNode/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>  
 </tbody>
 </table>
