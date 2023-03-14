@@ -196,5 +196,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/382-LinkedListRandomNode/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>  
+    <tr>
+        <td>26</td>
+        <td>382</td>
+        <td><a href="https://leetcode.com/problems/sum-root-to-leaf-numbers/description/">Sum Root to Leaf Numbers</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/129-SumRootToLeafNumbers/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>  
 </tbody>
 </table>
