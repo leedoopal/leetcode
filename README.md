@@ -203,5 +203,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/129-SumRootToLeafNumbers/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>  
+    <tr>
+        <td>27</td>
+        <td>162</td>
+        <td><a href="https://leetcode.com/problems/find-peak-element/solutions/?languageTags=javascript">Find Peak Element</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/162-FindPeakElement/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr> 
 </tbody>
 </table>
