@@ -210,5 +210,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/162-FindPeakElement/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr> 
+    <tr>
+        <td>28</td>
+        <td>207</td>
+        <td><a href="https://leetcode.com/problems/course-schedule/description/">Course Schedule</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/207-CourseSchedule/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr> 
 </tbody>
 </table>
