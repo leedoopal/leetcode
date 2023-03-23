@@ -217,5 +217,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/207-CourseSchedule/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr> 
+    <tr>
+        <td>29</td>
+        <td>79</td>
+        <td><a href="https://leetcode.com/problems/word-search/description/">Word Search</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/79-WordSearch/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr> 
 </tbody>
 </table>
