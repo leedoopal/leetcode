@@ -224,5 +224,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/79-WordSearch/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr> 
+    <tr>
+        <td>30</td>
+        <td>695</td>
+        <td><a href="https://leetcode.com/problems/max-area-of-island/description/">Max Area of Island</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/30-MaxAreaOfIsland/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>   
 </tbody>
 </table>
