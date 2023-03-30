@@ -238,5 +238,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/7-Reverse Integer/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>   
+    <tr>
+        <td>32</td>
+        <td>54</td>
+        <td><a href="https://leetcode.com/problems/spiral-matrix/description">Spiral Matrix</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/54-SpiralMatrix/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>   
 </tbody>
 </table>
