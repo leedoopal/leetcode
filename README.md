@@ -231,5 +231,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/30-MaxAreaOfIsland/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>   
+    <tr>
+        <td>31</td>
+        <td>7</td>
+        <td><a href="https://leetcode.com/problems/reverse-integer/description/">Reverse Integer</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/7-Reverse Integer/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>   
 </tbody>
 </table>
