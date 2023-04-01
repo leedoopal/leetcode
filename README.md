@@ -245,5 +245,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/54-SpiralMatrix/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>   
+    <tr>
+        <td>33</td>
+        <td>1706</td>
+        <td><a href="https://leetcode.com/problems/where-will-the-ball-fall/description">Where Will the Ball Fall</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/1706-WhereWillTheBallFall/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>   
 </tbody>
 </table>
