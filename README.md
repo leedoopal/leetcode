@@ -252,5 +252,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/1706-WhereWillTheBallFall/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>   
+    <tr>
+        <td>34</td>
+        <td>43</td>
+        <td><a href="https://leetcode.com/problems/multiply-strings/description">Multiply Strings</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/43-MultiplyStrings/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>   
 </tbody>
 </table>
