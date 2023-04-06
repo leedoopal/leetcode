@@ -259,5 +259,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/43-MultiplyStrings/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>   
+    <tr>
+        <td>35</td>
+        <td>19</td>
+        <td><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/">Remove Nth Node From End of List</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/19-RemoveNthNodeFromEndOfList/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>   
 </tbody>
 </table>
