@@ -266,5 +266,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/19-RemoveNthNodeFromEndOfList/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>   
+    <tr>
+        <td>36</td>
+        <td>198</td>
+        <td><a href="https://leetcode.com/problems/house-robber/description/">House Robber</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/198-HouseRobber/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>   
 </tbody>
 </table>
