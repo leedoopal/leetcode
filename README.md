@@ -273,5 +273,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/198-HouseRobber/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>   
+    <tr>
+        <td>37</td>
+        <td>234</td>
+        <td><a href="https://leetcode.com/problems/palindrome-linked-list">Palindrome Linked List</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/234-PalindromeLinkedList/index.js">javascript</a></td>
+        <td>Easy</td> 
+    </tr>   
 </tbody>
 </table>
