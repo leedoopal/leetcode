@@ -280,5 +280,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/234-PalindromeLinkedList/index.js">javascript</a></td>
         <td>Easy</td> 
     </tr>   
+    <tr>
+        <td>38</td>
+        <td>416</td>
+        <td><a href="https://leetcode.com/problems/partition-equal-subset-sum">Partition Equal Subset Sum</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/416-PartitionEqualSubsetSum/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>   
 </tbody>
 </table>
