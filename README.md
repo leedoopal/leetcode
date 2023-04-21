@@ -294,5 +294,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/2131-LongestPalindromeByConcatenatingTwoLetterWords/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>   
+    <tr>
+        <td>40</td>
+        <td>300</td>
+        <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/description/">Longest Increasing Subsequence</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/300-LongestIncreasingSubsequence/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>  
 </tbody>
 </table>
