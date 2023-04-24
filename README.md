@@ -301,5 +301,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/300-LongestIncreasingSubsequence/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>  
+    <tr>
+        <td>41</td>
+        <td>879</td>
+        <td><a href="https://leetcode.com/problems/profitable-schemes/description/">Profitable Schemes</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/879-ProfitableSchemes/index.js">javascript</a></td>
+        <td>Hard</td> 
+    </tr>  
 </tbody>
 </table>
