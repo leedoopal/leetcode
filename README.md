@@ -308,5 +308,13 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/879-ProfitableSchemes/index.js">javascript</a></td>
         <td>Hard</td> 
     </tr>  
+    <tr>
+        <td>42</td>
+        <td>130</td>
+        <td><a href="https://leetcode.com/problems/surrounded-regions/description">Surrounded Regions
+</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/130-SurroundedRegions/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>  
 </tbody>
 </table>
