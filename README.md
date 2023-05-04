@@ -316,5 +316,13 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/130-SurroundedRegions/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>  
+    <tr>
+        <td>43</td>
+        <td>40</td>
+        <td><a href="https://leetcode.com/problems/surrounded-regions/description">Combination Sum II
+</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/40-CombinationSumII/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr> 
 </tbody>
 </table>
