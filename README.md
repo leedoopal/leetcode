@@ -324,5 +324,13 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/40-CombinationSumII/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr> 
+    <tr>
+        <td>44</td>
+        <td>209</td>
+        <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/description/">Minimum Size Subarray Sum
+</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/209-MinimumSizeSubarraySum/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr> 
 </tbody>
 </table>
