@@ -332,5 +332,13 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/209-MinimumSizeSubarraySum/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr> 
+<tr>
+        <td>45</td>
+        <td>80</td>
+        <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii">Remove Duplicates from Sorted Array II
+</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/80-RemoveDuplicatesFromSortedArrayII /index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr> 
 </tbody>
 </table>
