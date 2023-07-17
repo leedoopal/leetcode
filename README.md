@@ -348,5 +348,13 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/151-ReverseWordsInAString/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr> 
+<tr>
+        <td>47</td>
+        <td>167</td>
+        <td><a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted">Two Sum II - Input Array Is Sorted
+</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/167-TwoSumII-InputArrayIsSorted/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr> 
 </tbody>
 </table>
