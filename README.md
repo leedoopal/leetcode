@@ -337,7 +337,15 @@
         <td>80</td>
         <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii">Remove Duplicates from Sorted Array II
 </a></td>
-        <td><a href="https://github.com/leedoopal/leetcode/blob/main/80-RemoveDuplicatesFromSortedArrayII /index.js">javascript</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/80-RemoveDuplicatesFromSortedArrayII/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr> 
+<tr>
+        <td>46</td>
+        <td>151</td>
+        <td><a href="https://leetcode.com/problems/reverse-words-in-a-string/">Reverse Words in a String
+</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/151-ReverseWordsInAString/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr> 
 </tbody>
