@@ -364,5 +364,13 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/74-SearchA2DMatirx/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr> 
+<tr>
+        <td>49</td>
+        <td>1492</td>
+        <td><a href="https://leetcode.com/problems/the-kth-factor-of-n">The kth Factor of n
+</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/1492-TheKthFactorOfN/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr> 
 </tbody>
 </table>
