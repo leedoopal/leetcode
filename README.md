@@ -356,5 +356,13 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/167-TwoSumII-InputArrayIsSorted/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr> 
+<tr>
+        <td>48</td>
+        <td>74</td>
+        <td><a href="https://leetcode.com/problems/search-a-2d-matrix">Search a 2D Matrix
+</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/74-SearchA2DMatirx/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr> 
 </tbody>
 </table>
