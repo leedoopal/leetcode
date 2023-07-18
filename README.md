@@ -372,5 +372,13 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/1492-TheKthFactorOfN/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr> 
+<tr>
+        <td>50</td>
+        <td>2405</td>
+        <td><a href="https://leetcode.com/problems/optimal-partition-of-string">Optimal Partition of String
+</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/2405-OptimalPartitionOfString/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr> 
 </tbody>
 </table>
