@@ -380,5 +380,13 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/2405-OptimalPartitionOfString/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr> 
+<tr>
+        <td>51</td>
+        <td>121</td>
+        <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock">Best Time to Buy and Sell Stock
+</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/121-BestTimeToBuyAndSellStock/index.js">javascript</a></td>
+        <td>Easy</td> 
+    </tr> 
 </tbody>
 </table>
