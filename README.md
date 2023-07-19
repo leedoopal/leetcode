@@ -396,5 +396,13 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/45-JumpGameII/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr> 
+<tr>
+        <td>53</td>
+        <td>2492</td>
+        <td><a href="https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities">Jump Game II
+</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/2492-MinimumScoreOfAPathBetweenTwoCities/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr> 
 </tbody>
 </table>
