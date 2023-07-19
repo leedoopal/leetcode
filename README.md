@@ -404,5 +404,13 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/2492-MinimumScoreOfAPathBetweenTwoCities/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr> 
+<tr>
+        <td>54</td>
+        <td>31</td>
+        <td><a href="https://leetcode.com/problems/next-permutation">Next Permutation
+</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/31-NextPermutation/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>
 </tbody>
 </table>
