@@ -388,5 +388,13 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/121-BestTimeToBuyAndSellStock/index.js">javascript</a></td>
         <td>Easy</td> 
     </tr> 
+<tr>
+        <td>52</td>
+        <td>45</td>
+        <td><a href="https://leetcode.com/problems/jump-game-ii">Jump Game II
+</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/45-JumpGameII/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr> 
 </tbody>
 </table>
