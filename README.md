@@ -412,5 +412,13 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/31-NextPermutation/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>
+<tr>
+        <td>55</td>
+        <td>53</td>
+        <td><a href="https://leetcode.com/problems/maximum-subarray/">Maximum Subarray
+</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/53-MaximumSubarray/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>
 </tbody>
 </table>
