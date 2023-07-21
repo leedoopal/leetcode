@@ -9,9 +9,11 @@ const maxArea = function(height) {
 
   while (left < right) {
     let width = right - left;
-    // 작은 값을 담아야 양 끝이 모두 막혀있는 것
-    answer = Math.max(answer, Math.min(height[left], height[right]) * width)
 
+    let currentArea = Math.min(height[left], height[right]) * width;
+    answer = Math.max(answer, currentArea);
+
+    // 높이가 더 낮은쪽을 이동
     if (height[left] <= height[right]) {
       left++;
     } else {
