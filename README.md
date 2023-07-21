@@ -420,5 +420,13 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/53-MaximumSubarray/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>
+<tr>
+        <td>55</td>
+        <td>53</td>
+        <td><a href="https://leetcode.com/problems/binary-tree-right-side-view">Binary Tree Right Side View
+</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/199-BinaryTreeRightSideView/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>
 </tbody>
 </table>
