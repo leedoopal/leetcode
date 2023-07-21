@@ -428,5 +428,13 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/199-BinaryTreeRightSideView/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>
+<tr>
+        <td>56</td>
+        <td>53</td>
+        <td><a href="https://leetcode.com/problems/combination-sum">Combination Sum
+</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/39-CombinationSum/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>
 </tbody>
 </table>
