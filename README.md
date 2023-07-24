@@ -450,5 +450,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/64-MinimumPathSum/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>
+<tr>
+        <td>59</td>
+        <td>72</td>
+        <td><a href="https://leetcode.com/problems/edit-distance">Edit Distance</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/72-EditDistance/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>
 </tbody>
 </table>
