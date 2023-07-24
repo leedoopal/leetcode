@@ -16,6 +16,7 @@ var minPathSum = function(grid) {
     grid[0][j] += grid[0][j - 1]
   }
 
+  // 나머지 칸들에 대해 DP를 사용해서 최소 합을 계산
   for (let i = 1; i < col; i++) {
     for (let j = 1; j < row; j++) {
       grid[i][j] += Math.min(grid[i - 1][j], grid[i][j - 1]);
