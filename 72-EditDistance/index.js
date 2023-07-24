@@ -7,7 +7,7 @@ var minDistance = function (word1, word2) {
   const m = word1.length;
   const n = word2.length;
 
-  const dp = new Array(m + 1).fill(null).map(() => Array(n + 1).fill(0));
+  const dp = new Array(m + 1).fill(0).map(() => Array(n + 1).fill(0));
 
   for (let i = 0; i <= m; i++) {
     dp[i][0] = i;
@@ -21,7 +21,7 @@ var minDistance = function (word1, word2) {
     for (let j = 1; j <= n; j++) {
       // word1의 마지막 문자와 word2의 마지막 문자가 같은 경우
       // 추가 연산이 필요하지 않으므로 dp[i][j] = dp[i - 1][j - 1]
-      if (word1[i] === word2[j]) {
+      if (word1[i - 1] === word2[j - 1]) {
         dp[i][j] = dp[i - 1][j - 1];
       } else {
         // 삽입, 삭제, 교체 중 하나를 선택해야함
