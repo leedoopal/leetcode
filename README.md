@@ -443,5 +443,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/77-Combinations/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>
+<tr>
+        <td>58</td>
+        <td>64</td>
+        <td><a href="https://leetcode.com/problems/minimum-path-sum">Minimum Path Sum</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/64-MinimumPathSum/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>
 </tbody>
 </table>
