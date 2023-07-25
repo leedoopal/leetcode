@@ -457,5 +457,12 @@
         <td><a href="https://github.com/leedoopal/leetcode/blob/main/72-EditDistance/index.js">javascript</a></td>
         <td>Medium</td> 
     </tr>
+<tr>
+        <td>60</td>
+        <td>33</td>
+        <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array">Search in Rotated Sorted Array</a></td>
+        <td><a href="https://github.com/leedoopal/leetcode/blob/main/33-SearchInRotatedSortedArray/index.js">javascript</a></td>
+        <td>Medium</td> 
+    </tr>
 </tbody>
 </table>
