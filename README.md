@@ -485,5 +485,12 @@
          <td><a href="https://github.com/leedoopal/leetcode/blob/main/139-WordBreak/index.js">javascript</a></td>
          <td>Medium</td>
       </tr>
+      <tr>
+         <td>61</td>
+         <td>200</td>
+         <td><a href="https://leetcode.com/problems/number-of-islands">Number of Islands</a></td>
+         <td><a href="https://github.com/leedoopal/leetcode/blob/main/200-NumberOfIslands/index.js">javascript</a></td>
+         <td>Medium</td>
+      </tr>
    </tbody>
 </table>
