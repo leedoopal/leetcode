@@ -492,5 +492,12 @@
          <td><a href="https://github.com/leedoopal/leetcode/blob/main/200-NumberOfIslands/index.js">javascript</a></td>
          <td>Medium</td>
       </tr>
+      <tr>
+         <td>62</td>
+         <td>994</td>
+         <td><a href="https://leetcode.com/problems/rotting-oranges">Rotting Oranges</a></td>
+         <td><a href="https://github.com/leedoopal/leetcode/blob/main/994-RottingOranges/index.js">javascript</a></td>
+         <td>Medium</td>
+      </tr>
    </tbody>
 </table>
