@@ -499,5 +499,12 @@
          <td><a href="https://github.com/leedoopal/leetcode/blob/main/994-RottingOranges/index.js">javascript</a></td>
          <td>Medium</td>
       </tr>
+      <tr>
+         <td>63</td>
+         <td>36</td>
+         <td><a href="https://leetcode.com/problems/valid-sudoku">Valid Sudoku</a></td>
+         <td><a href="https://github.com/leedoopal/leetcode/blob/main/36-ValidSudoku/index.js">javascript</a></td>
+         <td>Medium</td>
+      </tr>
    </tbody>
 </table>
