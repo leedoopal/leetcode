@@ -520,5 +520,12 @@
          <td><a href="https://github.com/leedoopal/leetcode/blob/main/189-RotateArray/index.js">javascript</a></td>
          <td>Medium</td>
       </tr>
+      <tr>
+         <td>66</td>
+         <td>274</td>
+         <td><a href="https://leetcode.com/problems/h-index/description/">H-Index</a></td>
+         <td><a href="https://github.com/leedoopal/leetcode/blob/main/274-HIndex/index.js">javascript</a></td>
+         <td>Medium</td>
+      </tr>
    </tbody>
 </table>
