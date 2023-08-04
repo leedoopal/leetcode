@@ -513,5 +513,12 @@
          <td><a href="https://github.com/leedoopal/leetcode/blob/main/122-BestTimeToBuyAndSellStockII/index.js">javascript</a></td>
          <td>Medium</td>
       </tr>
+      <tr>
+         <td>65</td>
+         <td>189</td>
+         <td><a href="https://leetcode.com/problems/rotate-array">Rotate Array</a></td>
+         <td><a href="https://github.com/leedoopal/leetcode/blob/main/189-RotateArray/index.js">javascript</a></td>
+         <td>Medium</td>
+      </tr>
    </tbody>
 </table>
