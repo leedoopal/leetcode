@@ -506,5 +506,12 @@
          <td><a href="https://github.com/leedoopal/leetcode/blob/main/36-ValidSudoku/index.js">javascript</a></td>
          <td>Medium</td>
       </tr>
+      <tr>
+         <td>64</td>
+         <td>122</td>
+         <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii">Best Time to Buy and Sell Stock II</a></td>
+         <td><a href="https://github.com/leedoopal/leetcode/blob/main/122-BestTimeToBuyAndSellStockII/index.js">javascript</a></td>
+         <td>Medium</td>
+      </tr>
    </tbody>
 </table>
