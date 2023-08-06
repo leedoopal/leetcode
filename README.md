@@ -527,5 +527,12 @@
          <td><a href="https://github.com/leedoopal/leetcode/blob/main/274-HIndex/index.js">javascript</a></td>
          <td>Medium</td>
       </tr>
+      <tr>
+         <td>67</td>
+         <td>275</td>
+         <td><a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</a></td>
+         <td><a href="https://github.com/leedoopal/leetcode/blob/main/238-ProductOfArrayExceptSelf/index.js">javascript</a></td>
+         <td>Medium</td>
+      </tr>
    </tbody>
 </table>
