@@ -541,5 +541,12 @@
          <td><a href="https://github.com/leedoopal/leetcode/blob/main/134-GasStation/index.js">javascript</a></td>
          <td>Medium</td>
       </tr>
+      <tr>
+         <td>69</td>
+         <td>27</td>
+         <td><a href="https://leetcode.com/problems/remove-element">Remove Element</a></td>
+         <td><a href="https://github.com/leedoopal/leetcode/blob/main/27-RemoveElement/index.js">javascript</a></td>
+         <td>Easy</td>
+      </tr>
    </tbody>
 </table>
