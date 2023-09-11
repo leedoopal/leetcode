@@ -548,5 +548,12 @@
          <td><a href="https://github.com/leedoopal/leetcode/blob/main/27-RemoveElement/index.js">javascript</a></td>
          <td>Easy</td>
       </tr>
+      <tr>
+         <td>70</td>
+         <td>26</td>
+         <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array">Remove Duplicates from Sorted Array</a></td>
+         <td><a href="https://github.com/leedoopal/leetcode/blob/main/27-RemoveDuplicatesFromSortedArray/index.js">javascript</a></td>
+         <td>Easy</td>
+      </tr>
    </tbody>
 </table>
