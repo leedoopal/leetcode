@@ -4,22 +4,20 @@
  * @return {number[]}
  */
 const twoSum = function (numbers, target) {
-  let start = 0;
-  let end = numbers.length - 1;
+  let l = 0;
+  let r = numbers.length - 1;
 
-  while (start <= end) {
-    if (numbers[start] + numbers[end] === target) {
-      // 결과는 인덱스를 1부터 시작하는 것으로 넘겨야함. (문제가 그렇다)
-      return [start + 1, end + 1];
+  while (l < r) {
+    if (numbers[l] + numbers[r] === target) {
+      return [l + 1, r + 1];
     }
 
-    // 더한 값이 target보다 크다면 크거나 같아질때까지 계속 반복
-    if (numbers[start] + numbers[end] > target) {
-      end--;
+    if (numbers[l] + numbers[r] < target) {
+      l++
     } else {
-      start++;
+      r--;
     }
   }
-
-  return [];
 };
+
+console.log(twoSum([2, 7, 11, 15], 9));
