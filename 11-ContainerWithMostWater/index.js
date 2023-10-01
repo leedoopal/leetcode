@@ -3,25 +3,25 @@
  * @return {number}
  */
 const maxArea = function(height) {
-  let answer = 0;
-  let left = 0;
-  let right = height.length - 1;
+  let l = 0;
+  let r = height.length - 1;
+  let result = 0;
 
-  while (left < right) {
-    let width = right - left;
+  while (l < r) {
+    let width = r - l;
 
-    let currentArea = Math.min(height[left], height[right]) * width;
-    answer = Math.max(answer, currentArea);
+    let currentArea = Math.min(height[l], height[r]) * width;
+    result = Math.max(result, currentArea);
 
-    // 높이가 더 낮은쪽을 이동
-    if (height[left] <= height[right]) {
-      left++;
+    // 높이가 더 낮은쪽으로 이동
+    if (height[l] <= height[r]) {
+      l++;
     } else {
-      right--;
+      r--;
     }
   }
 
-  return answer;
+  return result;
 };
 
 console.log(maxArea([1, 8, 6, 2, 5, 4, 8, 3, 7]));
