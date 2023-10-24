@@ -6,6 +6,10 @@ var uniquePathsWithObstacles = function (obstacleGrid) {
     const m = obstacleGrid.length;
     const n = obstacleGrid[0].length;
 
+    if (obstacleGrid[0][0] === 1) {
+        return 0;
+    }
+
     const dp = obstacleGrid;
     dp[0][0] = 1;
 
