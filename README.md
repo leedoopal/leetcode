@@ -576,5 +576,12 @@
          <td><a href="https://github.com/leedoopal/leetcode/blob/main/63-UniquePathsII/index.js">javascript</a></td>
          <td>Medium</td>
       </tr>
+      <tr>
+         <td>74</td>
+         <td>120</td>
+         <td><a href="https://leetcode.com/problems/triangle">Triangle</a></td>
+         <td><a href="https://github.com/leedoopal/leetcode/blob/main/120-Triangle/index.js">javascript</a></td>
+         <td>Medium</td>
+      </tr>
    </tbody>
 </table>
