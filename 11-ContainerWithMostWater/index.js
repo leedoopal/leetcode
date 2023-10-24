@@ -3,21 +3,21 @@
  * @return {number}
  */
 const maxArea = function(height) {
-  let l = 0;
-  let r = height.length - 1;
+  let left = 0;
+  let right = height.length - 1;
   let result = 0;
 
-  while (l < r) {
-    let width = r - l;
+  while (left < right) {
+    let width = right - left;
+    let h = Math.min(height[left], height[right]);
+    let water = width * h;
 
-    let currentArea = Math.min(height[l], height[r]) * width;
-    result = Math.max(result, currentArea);
+    result = Math.max(result, water);
 
-    // 높이가 더 낮은쪽으로 이동
-    if (height[l] <= height[r]) {
-      l++;
+    if (height[left] < height[right]) {
+      left++
     } else {
-      r--;
+      right--;
     }
   }
 
