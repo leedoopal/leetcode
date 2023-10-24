@@ -569,5 +569,12 @@
          <td><a href="https://github.com/leedoopal/leetcode/blob/main/97-InterleavingString/index.js">javascript</a></td>
          <td>Medium</td>
       </tr>
+      <tr>
+         <td>73</td>
+         <td>63</td>
+         <td><a href="https://leetcode.com/problems/unique-paths-ii">Unique Paths II</a></td>
+         <td><a href="https://github.com/leedoopal/leetcode/blob/main/63-UniquePathsII/index.js">javascript</a></td>
+         <td>Medium</td>
+      </tr>
    </tbody>
 </table>
