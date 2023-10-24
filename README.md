@@ -555,5 +555,12 @@
          <td><a href="https://github.com/leedoopal/leetcode/blob/main/27-RemoveDuplicatesFromSortedArray/index.js">javascript</a></td>
          <td>Easy</td>
       </tr>
+      <tr>
+         <td>71</td>
+         <td>179</td>
+         <td><a href="https://leetcode.com/problems/largest-number">Largest Number</a></td>
+         <td><a href="https://github.com/leedoopal/leetcode/blob/main/179-LargestNumber/index.js">javascript</a></td>
+         <td>Medium</td>
+      </tr>
    </tbody>
 </table>
