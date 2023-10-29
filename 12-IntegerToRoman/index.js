@@ -12,47 +12,40 @@ const symbol = {
   1000: 'M'
 }
 const intToRoman = function (num) {
-  let answer = ''
+  let one = num % 10;
+  let ten = num % 100 - one;
+  let mil = num % 1000 - ten - one;
+  let thou = num % 10000 - mil - ten - one;
 
-  let oneNum = num % 10;
-  let tenNum = num % 100 - oneNum;
-  let milNum = num % 1000 - tenNum - oneNum;
-  let thouNum = num % 10000 - milNum - tenNum - oneNum;
+  let answer = '';
 
-  const one = loopRoman(oneNum, 1, answer)
-  const ten = loopRoman(tenNum, 10, answer)
-  const mil = loopRoman(milNum, 100, answer)
+  const thouAnswer = recursive(thou, 1000, answer)
+  const milAnswer = recursive(mil, 100, answer);
+  const tenAnswer = recursive(ten, 10, answer);
+  const oneAnswer = recursive(one, 1, answer);
 
-  while (thouNum > 0) {
-    thouNum = thouNum - 1000;
-    answer += symbol[1000]
-  }
+  return thouAnswer + milAnswer + tenAnswer + oneAnswer
+}
 
-  return answer + mil + ten + one;
-};
-
-const loopRoman = (value, int, answer) => {
-  while (value > 0) {
-    if (value === 9 * int) {
-      value = value - 9 * int;
-      answer += symbol[int] ?? ''
-      answer += symbol[int * 10] ?? ''
-    } else if (value >= 5 * int) {
-      value = value - 5 * int;
-      answer += symbol[5 * int] ?? ''
+function recursive(num, int, answer) {
+  while (num > 0) {
+    if (num === 9 * int) {
+      num = num - 9 * int;
+      answer += symbol[int] + symbol[int * 10]
+    } else if (num >= 5 * int) {
+      num = num - 5 * int;
+      answer += symbol[5 * int]
+    } else if (num === 4 * int) {
+      num = num - 4 * int;
+      answer += symbol[int] + symbol[int * 5]
     } else {
-      if (value === 4 * int) {
-        value = value - 4 * int;
-        answer += symbol[1 * int] ?? ''
-        answer += symbol[5 * int] ?? ''
-      } else {
-        value = value - 1 * int;
-        answer += symbol[1 * int] ?? '';
-      }
+      num = num - int;
+      answer += symbol[int]
     }
   }
 
   return answer;
 }
 
-console.log(intToRoman(1994));
+// console.log(intToRoman(1994));
+console.log(intToRoman(58));
