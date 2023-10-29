@@ -12,22 +12,23 @@ const romanToInt = function(s) {
     'D': 500,
     'M': 1000
   }
-
-  let answer = 0;
+  let result = 0;
 
   for (let i = 0; i < s.length; i++) {
-    const current = table[s[i]] ?? 0;
+    const curr = table[s[i]];
     const next = table[s[i + 1]] ?? 0;
 
-    if (current < next) {
-      answer += next - current;
-      i++
+    if (curr < next) {
+      result += next - curr;
+      i++;
     } else {
-      answer += current;
+      result += curr;
     }
   }
 
-  return answer;
+  return result;
 };
 
+// console.log(romanToInt('III'));
+// console.log(romanToInt('LVIII'));
 console.log(romanToInt('MCMXCIV'));
