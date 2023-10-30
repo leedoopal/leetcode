@@ -597,5 +597,12 @@
          <td><a href="https://github.com/leedoopal/leetcode/blob/main/1151-MinimumSwapsToGroupAll1'sTogether/index.js">javascript</a></td>
          <td>Medium</td>
       </tr>
+      <tr>
+         <td>77</td>
+         <td>2422</td>
+         <td><a href="https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome">Merge Operations to Turn Array Into a Palindrome</a></td>
+         <td><a href="https://github.com/leedoopal/leetcode/blob/main/2422-MergeOperationsToTurnArrayIntoAPalindrome/index.js">javascript</a></td>
+         <td>Medium</td>
+      </tr>
    </tbody>
 </table>
