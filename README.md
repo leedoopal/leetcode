@@ -583,5 +583,12 @@
          <td><a href="https://github.com/leedoopal/leetcode/blob/main/120-Triangle/index.js">javascript</a></td>
          <td>Medium</td>
       </tr>
+      <tr>
+         <td>75</td>
+         <td>28</td>
+         <td><a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string">Find the Index of the First Occurrence in a String</a></td>
+         <td><a href="https://github.com/leedoopal/leetcode/blob/main/28-FindTheIndexOfTheFirstOccurrenceInAString/index.js">javascript</a></td>
+         <td>Easy</td>
+      </tr>
    </tbody>
 </table>
