@@ -590,5 +590,12 @@
          <td><a href="https://github.com/leedoopal/leetcode/blob/main/28-FindTheIndexOfTheFirstOccurrenceInAString/index.js">javascript</a></td>
          <td>Easy</td>
       </tr>
+      <tr>
+         <td>76</td>
+         <td>1151</td>
+         <td><a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together">Minimum Swaps to Group All 1's Together</a></td>
+         <td><a href="https://github.com/leedoopal/leetcode/blob/main/1151-MinimumSwapsToGroupAll1'sTogether/index.js">javascript</a></td>
+         <td>Medium</td>
+      </tr>
    </tbody>
 </table>
